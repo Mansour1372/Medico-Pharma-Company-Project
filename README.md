@@ -33,3 +33,7 @@ The system will be based on a client-server architecture. The Odoo application w
  * Sohay Hammad
  * Abeer Essam
  * Nagat Mohamed
+   
+## Reviewed By
+ * Diaa Hamdan
+ * DEPI Reviewer
