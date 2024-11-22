@@ -8,9 +8,9 @@ https://edu-medico-pharma.odoo.com/web#action=483&model=purchase.order&view_type
 ## PowerPoint 
 https://drive.google.com/drive/folders/1hb0yG6Vuk5OuKgZ2IBWYgo8h1zT5Upes
 
-* * User for TEST:* 
- * Username: Next@gmail.com
- * Password:  123456
+* *User For TEST:*
+  * Username: Next@gmail.com
+  * Password:  123456
 
 ## Scope of Work
 The project will cover the installation and configuration of Odoo modules related to purchasing, inventory, and sales operations, in more than one branch. It will also include data transfer and user training.
