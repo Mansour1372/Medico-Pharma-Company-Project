@@ -1,7 +1,7 @@
 # Odoo Medicine Distribution System
 
 ## Overview
-The objective of this project is to implement a comprehensive Medicine distribution system using the Odoo application to streamline operations, improve inventory management, and enhance customer experience.
+This project aims to implement a comprehensive Medicine distribution system using the Odoo application to streamline operations, improve inventory management, and enhance customer experience.
 
 ## Usage For Database
 https://edu-medico-pharma.odoo.com/web#action=483&model=purchase.order&view_type=list&cids=1&menu_id=314
@@ -22,10 +22,9 @@ The project will cover the installation and configuration of Odoo modules relate
 
 * *Technologies Used:*
   * Odoo ERP application
-  * PostgreSQL database
 
 ## System Architecture
-The system will be based on a client-server architecture. The Odoo application will be hosted on a cloud server, with clients accessing the system through web browsers. The PostgreSQL database will store all transactional and master data, while Docker will be used to manage application containers for easy deployment and scalability.
+The system will be based on a client-server architecture. The Odoo application will be hosted on a cloud server, with clients accessing the system through web browsers. Odoo database will store all transactional and master data, while Docker will manage application containers for easy deployment and scalability.
 
 ## Created By
  * Mohamed Gamal 
